@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+test_playground/
+models.txt
+models_out.txt
+check_models.py
